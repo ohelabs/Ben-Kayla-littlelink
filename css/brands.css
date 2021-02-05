@@ -187,7 +187,7 @@ button:hover,
   background-color: #8257E6 }
 .button.button-rocketseat:hover,
 .button.button-rocketseat:focus {
-  filter: brightness(90%) }  
+  filter: brightness(90%) }
 
 /* Snapchat */
 .button.button-snapchat {
@@ -228,7 +228,7 @@ button:hover,
 .button.button-steam:hover,
 .button.button-steam:focus {
   filter: brightness(90%) }
-  
+
 /* Telegram */
 .button.button-telegram {
   color: #FFFFFF;
@@ -275,4 +275,12 @@ button:hover,
   background-color: #0073AA }
 .button.button-wordpress:hover,
 .button.button-wordpress:focus {
+  filter: brightness(90%) }
+
+/* Website */
+.button.button-website {
+  color: #FFFFFF;
+  background-color: #48463E }
+.button.button-website:hover,
+.button.button-website:focus {
   filter: brightness(90%) }

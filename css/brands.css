@@ -284,3 +284,11 @@ button:hover,
 .button.button-website:hover,
 .button.button-website:focus {
   filter: brightness(90%) }
+
+/* B&K Blog */
+.button.button-blog {
+  color: #FFFFFF;
+  background-color: #48463E }
+.button.button-blog:hover,
+.button.button-blog:focus {
+  filter: brightness(90%) }

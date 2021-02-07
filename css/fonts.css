@@ -1,0 +1,28 @@
+/* List of Fonts used in Links*/
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(fonts/opensans/OpenSans-Regular.ttf) format('truetype');
+}
+
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(fonts/opensans/OpenSans-SemiBold.ttf) format('truetype');
+}
+
+/
+/* latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(fonts/opensans/OpenSans-ExtraBold.ttf) format('truetype');
+}

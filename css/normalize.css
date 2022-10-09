@@ -185,10 +185,6 @@ img {
   border: 0;
 }
 
-.avatar {
-  max-width: 100%;
-  height: auto;
-}
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */

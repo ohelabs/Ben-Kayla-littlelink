@@ -638,3 +638,13 @@ button:hover,
 .button.button-letterboxd:focus {
   filter: brightness(90%);
 }
+
+/* Vero*/
+.button.button-vero {
+  color: #ffffff;
+  background-color: #00cccc;
+}
+.button.button-vero:hover,
+.button.button-vero:focus {
+  filter: brightness(90%);
+}

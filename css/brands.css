@@ -56,12 +56,12 @@ button:hover,
 }
 .button.button-primary {
   color: #fff;
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 .button.button-primary:hover,
 .button.button-primary:focus {
   color: #fff;
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Brand Icons
@@ -80,11 +80,11 @@ button:hover,
 /* Default (this is great for your own brand color!) */
 .button.button-default {
   color: #ffffff;
-  background-color: #2457F5;
+  background-color: #CB594D;
 }
 .button.button-default:hover,
 .button.button-default:focus {
-  filter: brightness(90%);
+  filter: brightness(50%);
 }
 
 /* Amazon */
@@ -95,7 +95,7 @@ button:hover,
 }
 .button.button-amazon:hover,
 .button.button-amazon:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Amazon Music */
@@ -105,7 +105,7 @@ button:hover,
 }
 .button.button-amazon-music:hover,
 .button.button-amazon-music:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Apple App Store */
@@ -116,7 +116,7 @@ button:hover,
 }
 .button.button-appstore:hover,
 .button.button-appstore:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Apple Music */
@@ -127,7 +127,7 @@ button:hover,
 }
 .button.button-apple-music:hover,
 .button.button-apple-music:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Apple Music Alt */
@@ -137,7 +137,7 @@ button:hover,
 }
 .button.button-apple-music-alt:hover,
 .button.button-apple-music-alt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Apple Podcasts */
@@ -148,7 +148,7 @@ button:hover,
 }
 .button.button-apple-podcasts:hover,
 .button.button-apple-podcasts:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Apple Podcasts Alt */
@@ -158,7 +158,7 @@ button:hover,
 }
 .button.button-apple-podcasts-alt:hover,
 .button.button-apple-podcasts-alt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* ArtStation */
@@ -169,7 +169,7 @@ button:hover,
 }
 .button.button-artstation:hover,
 .button.button-artstation:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Bandcamp */
@@ -179,7 +179,7 @@ button:hover,
 }
 .button.button-bandcamp:hover,
 .button.button-bandcamp:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Behance */
@@ -189,7 +189,7 @@ button:hover,
 }
 .button.button-behance:hover,
 .button.button-behance:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Bluesky */
@@ -200,7 +200,7 @@ button:hover,
 
 .button.button-bluesky:hover,
 .button.button-bluesky:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Bluesky Alt */
@@ -211,7 +211,7 @@ button:hover,
 }
 .button.button-bluesky-alt:hover,
 .button.button-bluesky-alt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Buy Me a Coffee */
@@ -221,7 +221,7 @@ button:hover,
 }
 .button.button-coffee:hover,
 .button.button-coffee:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Cal.com */
@@ -232,7 +232,7 @@ button:hover,
 }
 .button.button-cal:hover,
 .button.button-cal:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Calendly */
@@ -242,7 +242,7 @@ button:hover,
 }
 .button.button-calendly:hover,
 .button.button-calendly:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Cash App */
@@ -252,7 +252,7 @@ button:hover,
 }
 .button.button-cash-app:hover,
 .button.button-cash-app:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* dev.to */
@@ -263,7 +263,7 @@ button:hover,
 }
 .button.button-dev-to:hover,
 .button.button-dev-to:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Discogs */
@@ -274,7 +274,7 @@ button:hover,
 }
 .button.button-discogs:hover,
 .button.button-discogs:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Discogs Alt */
@@ -285,7 +285,7 @@ button:hover,
 }
 .button.button-discogs-alt:hover,
 .button.button-discogs-alt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Discord */
@@ -295,7 +295,7 @@ button:hover,
 }
 .button.button-discord:hover,
 .button.button-discord:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Dribbble */
@@ -306,7 +306,7 @@ button:hover,
 }
 .button.button-dribbble:hover,
 .button.button-dribbble:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Etsy */
@@ -316,7 +316,7 @@ button:hover,
 }
 .button.button-etsy:hover,
 .button.button-etsy:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Facebook */
@@ -326,7 +326,7 @@ button:hover,
 }
 .button.button-faceb:hover,
 .button.button-faceb:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Facebook Messenger */
@@ -344,7 +344,7 @@ button:hover,
 }
 .button.button-messenger:hover,
 .button.button-messenger:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Figma */
@@ -355,7 +355,7 @@ button:hover,
 }
 .button.button-figma:hover,
 .button.button-figma:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Fiverr */
@@ -365,7 +365,7 @@ button:hover,
 }
 .button.button-fiverr:hover,
 .button.button-fiverr:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Flickr */
@@ -376,7 +376,7 @@ button:hover,
 }
 .button.button-flickr:hover,
 .button.button-flickr:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* GitHub */
@@ -387,7 +387,7 @@ button:hover,
 }
 .button.button-github:hover,
 .button.button-github:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* GitLab */
@@ -397,7 +397,7 @@ button:hover,
 }
 .button.button-gitlab:hover,
 .button.button-gitlab:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* GoFundMe */
@@ -407,7 +407,7 @@ button:hover,
 }
 .button.button-gofundme:hover,
 .button.button-gofundme:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Goodreads */
@@ -418,7 +418,7 @@ button:hover,
 }
 .button.button-goodreads:hover,
 .button.button-goodreads:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Google Black */
@@ -429,7 +429,7 @@ button:hover,
 }
 .button.button-google-black:hover,
 .button.button-google-black:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Google Play Store */
@@ -440,7 +440,7 @@ button:hover,
 }
 .button.button-playstore:hover,
 .button.button-playstore:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Google Scholar */
@@ -451,7 +451,7 @@ button:hover,
 }
 .button.button-google-scholar:hover,
 .button.button-google-scholar:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Hashnode */
@@ -462,7 +462,7 @@ button:hover,
 }
 .button.button-hashnode:hover,
 .button.button-hashnode:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Instagram */
@@ -472,7 +472,7 @@ button:hover,
 }
 .button.button-instagram:hover,
 .button.button-instagram:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Kick */
@@ -482,7 +482,7 @@ button:hover,
   border: 1px solid #ffffff;
 }
 .button.button-kick:hover {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Kick Alt */
@@ -491,7 +491,7 @@ button:hover,
   color:  #000;
 }
 .button.button-kick-alt:hover {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Kickstarter */
@@ -501,7 +501,7 @@ button:hover,
 }
 .button.button-kickstarter:hover,
 .button.button-kickstarter:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Kit */
@@ -512,7 +512,7 @@ button:hover,
 }
 .button.button-kit:hover,
 .button.button-kit:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Ko-fi */
@@ -522,7 +522,7 @@ button:hover,
 }
 .button.button-ko-fi:hover,
 .button.button-ko-fi:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Last.fm */
@@ -532,7 +532,7 @@ button:hover,
 }
 .button.button-last-fm:hover,
 .button.button-last-fm:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Letterboxd */
@@ -543,7 +543,7 @@ button:hover,
 }
 .button.button-letterboxd:hover,
 .button.button-letterboxd:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Line */
@@ -553,7 +553,7 @@ button:hover,
 }
 .button.button-line:hover,
 .button.button-line:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* LinkedIn */
@@ -563,7 +563,7 @@ button:hover,
 }
 .button.button-linked:hover,
 .button.button-linked:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Mailchimp */
@@ -573,7 +573,7 @@ button:hover,
 }
 .button.button-mailchimp:hover,
 .button.button-mailchimp:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Mastodon */
@@ -584,7 +584,7 @@ button:hover,
 }
 .button.button-mastodon:hover,
 .button.button-mastodon:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Medium */
@@ -595,7 +595,7 @@ button:hover,
 }
 .button.button-medium:hover,
 .button.button-medium:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Microsoft */
@@ -606,7 +606,7 @@ button:hover,
 }
 .button.button-microsoft:hover,
 .button.button-microsoft:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* NGL */
@@ -616,7 +616,7 @@ button:hover,
 }
 .button.button-ngl:hover,
 .button.button-ngl:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Notion */
@@ -627,7 +627,7 @@ button:hover,
 }
 .button.button-notion:hover,
 .button.button-notion:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* OnlyFans */
@@ -637,7 +637,7 @@ button:hover,
 }
 .button.button-onlyfans:hover,
 .button.button-onlyfans:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Patreon */
@@ -648,7 +648,7 @@ button:hover,
 }
 .button.button-patreon:hover,
 .button.button-patreon:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* PayPal */
@@ -658,7 +658,7 @@ button:hover,
 }
 .button.button-paypal:hover,
 .button.button-paypal:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Pinterest */
@@ -669,7 +669,7 @@ button:hover,
 }
 .button.button-pinterest:hover,
 .button.button-pinterest:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Post.news */
@@ -679,7 +679,7 @@ button:hover,
 }
 .button.button-post-news:hover,
 .button.button-post-news:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Product Hunt */
@@ -690,7 +690,7 @@ button:hover,
 }
 .button.button-producthunt:hover,
 .button.button-producthunt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Read.cv */
@@ -701,7 +701,7 @@ button:hover,
 }
 .button.button-read-cv:hover,
 .button.button-read-cv:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Redbubble */
@@ -712,7 +712,7 @@ button:hover,
 }
 .button.button-redbubble:hover,
 .button.button-redbubble:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Reddit */
@@ -722,7 +722,7 @@ button:hover,
 }
 .button.button-reddit:hover,
 .button.button-reddit:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Revolut */
@@ -733,7 +733,7 @@ button:hover,
 }
 .button.button-revolut:hover,
 .button.button-revolut:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Shop */
@@ -743,7 +743,7 @@ button:hover,
 }
 .button.button-shop:hover,
 .button.button-shop:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Signal */
@@ -753,7 +753,7 @@ button:hover,
 }
 .button.button-signal:hover,
 .button.button-signal:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Slack */
@@ -764,7 +764,7 @@ button:hover,
 }
 .button.button-slack:hover,
 .button.button-slack:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Snapchat */
@@ -774,7 +774,7 @@ button:hover,
 }
 .button.button-snapchat:hover,
 .button.button-snapchat:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* SoundCloud */
@@ -784,7 +784,7 @@ button:hover,
 }
 .button.button-soundcloud:hover,
 .button.button-soundcloud:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Spotify */
@@ -794,7 +794,7 @@ button:hover,
 }
 .button.button-spotify:hover,
 .button.button-spotify:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Spotify Alt */
@@ -805,7 +805,7 @@ button:hover,
 }
 .button.button-spotify-alt:hover,
 .button.button-spotify-alt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Square */
@@ -815,7 +815,7 @@ button:hover,
 }
 .button.button-square:hover,
 .button.button-square:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Stack Overflow */
@@ -826,7 +826,7 @@ button:hover,
 }
 .button.button-stack-overflow:hover,
 .button.button-stack-overflow:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Steam */
@@ -836,7 +836,7 @@ button:hover,
 }
 .button.button-steam:hover,
 .button.button-steam:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Steam Alt */
@@ -847,7 +847,7 @@ button:hover,
 }
 .button.button-steam-alt:hover,
 .button.button-steam-alt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Strava */
@@ -857,7 +857,7 @@ button:hover,
 }
 .button.button-strava:hover,
 .button.button-strava:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Substack */
@@ -867,7 +867,7 @@ button:hover,
 }
 .button.button-substack:hover,
 .button.button-substack:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Telegram */
@@ -877,7 +877,7 @@ button:hover,
 }
 .button.button-telegram:hover,
 .button.button-telegram:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Threads */
@@ -888,7 +888,7 @@ button:hover,
 }
 .button.button-threads:hover,
 .button.button-threads:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Threema */
@@ -898,7 +898,7 @@ button:hover,
 }
 .button.button-threema:hover,
 .button.button-threema:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* TikTok */
@@ -909,7 +909,7 @@ button:hover,
 }
 .button.button-tiktok:hover,
 .button.button-tiktok:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Trakt */
@@ -919,7 +919,7 @@ button:hover,
 }
 .button.button-trakt:hover,
 .button.button-trakt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Trello */
@@ -929,7 +929,7 @@ button:hover,
 }
 .button.button-trello:hover,
 .button.button-trello:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Tumblr */
@@ -940,7 +940,7 @@ button:hover,
 }
 .button.button-tumb:hover,
 .button.button-tumb:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Twitch */
@@ -950,7 +950,7 @@ button:hover,
 }
 .button.button-twitch:hover,
 .button.button-twitch:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Unsplash */
@@ -961,7 +961,7 @@ button:hover,
 }
 .button.button-unsplash:hover,
 .button.button-unsplash:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Untappd */
@@ -971,7 +971,7 @@ button:hover,
 }
 .button.button-untappd:hover,
 .button.button-untappd:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Upwork */
@@ -981,7 +981,7 @@ button:hover,
 }
 .button.button-upwork:hover,
 .button.button-upwork:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Venmo */
@@ -991,7 +991,7 @@ button:hover,
 }
 .button.button-venmo:hover,
 .button.button-venmo:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Vimeo */
@@ -1001,7 +1001,7 @@ button:hover,
 }
 .button.button-vimeo:hover,
 .button.button-vimeo:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* VSCO */
@@ -1012,7 +1012,7 @@ button:hover,
 }
 .button.button-vsco:hover,
 .button.button-vsco:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Website */
@@ -1023,7 +1023,7 @@ button:hover,
 }
 .button.button-web:hover,
 .button.button-web:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* WhatsApp */
@@ -1033,7 +1033,7 @@ button:hover,
 }
 .button.button-whatsapp:hover,
 .button.button-whatsapp:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Wordpress */
@@ -1043,7 +1043,7 @@ button:hover,
 }
 .button.button-wordpress:hover,
 .button.button-wordpress:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* X */
@@ -1054,7 +1054,7 @@ button:hover,
 }
 .button.button-x:hover,
 .button.button-x:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* YouTube */
@@ -1065,7 +1065,7 @@ button:hover,
 }
 .button.button-yt:hover,
 .button.button-yt:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
 
 /* Zoom */
@@ -1075,5 +1075,5 @@ button:hover,
 }
 .button.button-zoom:hover,
 .button.button-zoom:focus {
-  filter: brightness(90%);
+  filter: brightness(80%);
 }
